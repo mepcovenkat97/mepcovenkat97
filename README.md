@@ -2,6 +2,8 @@
 #### Full Stack Developer
 
 Currently working as a Full Stack Developer
+#### Reach me at ```mepcovenkat97@gmail.com```
+#### Follow me [Github](https://github.com/mepcovenkat97), [LinkedIn](linkedin.com/in/venkateshwar-d-r-500b98114/)
 <!--Trying to solve the complex problem with the More -->
 
 <!--
@@ -18,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
