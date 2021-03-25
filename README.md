@@ -1,7 +1,7 @@
 # D.R.Venkateshwar
 ### Full Stack Developer
 Currently working as a Full Stack Developer at [Crayon'd](https://www.crayond.com/)
-- I’m currently working on **React, Node, Express, MongoDB** and __Redux*__
+- I’m currently working on **React, Node, Express** and **MongoDB**
 - I'm also aware of __Django, Python__ and __Java__
 #### Reach me at ```mepcovenkat97@gmail.com```
 #### Follow me [Github](https://github.com/mepcovenkat97), [LinkedIn](linkedin.com/in/venkateshwar-d-r-500b98114/)
