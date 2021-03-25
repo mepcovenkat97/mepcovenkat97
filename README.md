@@ -1,7 +1,7 @@
 ## D.R.Venkateshwar
-#### Full Stack *(MERN)* Developer
+#### Full Stack [MERN] Developer
 
-Currently working as a Full Stack Developer
+Currently working as a Full Stack Developer @CrayonD
 #### Reach me at ```mepcovenkat97@gmail.com```
 #### Follow me [Github](https://github.com/mepcovenkat97), [LinkedIn](linkedin.com/in/venkateshwar-d-r-500b98114/)
 <!--Trying to solve the complex problem with the More -->
