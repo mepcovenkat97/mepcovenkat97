@@ -1,5 +1,5 @@
 ## D.R.Venkateshwar
-#### Full Stack Developer
+#### Full Stack *(MERN)* Developer
 
 Currently working as a Full Stack Developer
 #### Reach me at ```mepcovenkat97@gmail.com```
